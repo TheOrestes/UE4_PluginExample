@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CSVReader.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"W:\ROOT16\Unreal\MyPlugin\Intermediate\Build\Win64\MyPluginEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"W:\ROOT16\Unreal\MyPlugin\Plugins\CSVReader\Intermediate\Build\Win64\UE4Editor\Development\CSVReader\Module.CSVReader.cpp.obj"
+"W:\ROOT16\Unreal\MyPlugin\Plugins\CSVReader\Intermediate\Build\Win64\UE4Editor\Development\CSVReader\Module.CSVReader.gen.cpp.obj"
+"W:\ROOT16\Unreal\MyPlugin\Plugins\CSVReader\Intermediate\Build\Win64\UE4Editor\Development\CSVReader\Default.rc2.res"
+/OUT:"W:\ROOT16\Unreal\MyPlugin\Plugins\CSVReader\Intermediate\Build\Win64\UE4Editor\Development\CSVReader\UE4Editor-CSVReader.lib"
+/INCLUDE:IMPLEMENT_MODULE_CSVReader

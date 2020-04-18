@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CSVReader.cpp.obj": [
+			"CSVReader.cpp.obj",
+			"CSVReaderBPLibrary.cpp.obj"
+		],
+		"Module.CSVReader.gen.cpp.obj": [
+			"CSVReader.init.gen.cpp.obj",
+			"CSVReaderBPLibrary.gen.cpp.obj"
+		]
+	}
+}
